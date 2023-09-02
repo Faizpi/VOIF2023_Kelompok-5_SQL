@@ -17,6 +17,6 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 ### Desain dan Prototype
 1. Abdulhadi
 2. Ilham Maulana
-3. c
+3. Muhammad Faiz Bintang Pratama 
 4. d
    
